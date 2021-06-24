@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/header.h
+
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/input_funct.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+header.h
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/header.h
+
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/main.c
+stdio.h
+-
+string.h
+-
+header.h
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/header.h
+
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/output_funct.c
+header.h
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/header.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

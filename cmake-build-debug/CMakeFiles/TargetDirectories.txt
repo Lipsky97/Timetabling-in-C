@@ -1,0 +1,3 @@
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/cmake-build-debug/CMakeFiles/Create_timetable.dir
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/olipi/Desktop/Studia/Programy C/Create_timetable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
